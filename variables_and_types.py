@@ -1,6 +1,6 @@
 student_name = "nika"        #str
 student_age = 18             #int
-student_height = 1.75        #float
+student_height = 1.85        #float
 is_student = True            #bool
 
 print("Student Name:", student_name, type(student_name))
